@@ -3,7 +3,7 @@
 //focus on indentations used
 public class SelectionSort {
 
-  //function for selection sort (function kept static for easy understandting)
+  //function for selection sort (function kept static for easy understanding)
 	static void selectionSort(int arr[]) {
 		int n=arr.length;
 		for(int key = 0 ; key<n-1 ; key++) {
